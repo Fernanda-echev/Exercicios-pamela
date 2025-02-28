@@ -16,13 +16,13 @@ echo '<br>';
 echo 'Soma: ', $soma, ' - Type: ', gettype($soma);
 echo '<br>';
 echo '<br>';
-echo 'Subtração: ', $sub, ' - Type: ', gettype($soma);
+echo 'Subtração: ', $sub, ' - Type: ', gettype($sub);
 echo '<br>';
 echo '<br>';
-echo 'Multiplicação: ', $mult, ' - Type: ', gettype($soma);
+echo 'Multiplicação: ', $mult, ' - Type: ', gettype($mult);
 echo '<br>';
 echo '<br>';
-echo 'Divisão: ', $div, ' - Type: ', gettype($soma);
+echo 'Divisão: ', $div, ' - Type: ', gettype($div);
 
 
 
